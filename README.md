@@ -1,0 +1,2 @@
+# MYSQLexample
+motivo de autoaprendizaje
